@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-HTML , CSS and Javascript basic project
+HTML , CSS and Javascript Basic Project
